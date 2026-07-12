@@ -122,5 +122,22 @@ span{
 
     font-weight: 300;
     text-align: end;
+}
 
+.part-three{
+    display: flex;
+    
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
